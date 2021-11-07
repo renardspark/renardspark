@@ -1,8 +1,14 @@
 - 👋 Hi, I’m @Theiremi
-- 👀 I’m interested in programming, informatic and electronic
+- 👀 I’m interested in programming, computer science and electronic
 - 🌱 I’m currently learning by myself
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me contact@theireply.fr
+
+My projects :
+- Theireply : https://www.theireply.fr
+- LaserCode : https://www.theireply.fr/lasercode
+- HoneyBase : https://www.theireply.fr/honeybase
+- ElectroBase : https://www.theireply.fr/electrobase
+- TrouverPoint : https://www.theireply.fr/trouverpoint
 
 <!---
 Theiremi/Theiremi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
